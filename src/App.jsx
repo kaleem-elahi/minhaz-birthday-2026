@@ -28,6 +28,10 @@ const wishes = [
     text: "Tumhari zindagi ka har aane wala din guzre hue din se behtar farmaye. Allah Pak hum sab ko Jannat-ul-Firdous mein apne Habeeb ﷺ ka pados naseeb farmaye. Ameen."
   },
   {
+    title: "Deeni Tarakki",
+    text: "Allah Pak tumhe ek behtareen Aalima banaye, Dawateislami ke paakiza mahol mein hamesha isteqamat naseeb farmaye aur tumhe Dawateislami ki ek mukhlis Zimmedar banaye. Ameen."
+  },
+  {
     title: "Ek Khaas Tohfa 🎁",
     text: "Tumhare is Yaum-e-Paidaish par meri taraf se ek Ruhaani Tohfa (Esale Sawab): 11 Parah Quran-e-Pak, 1100 martaba Durood Sharif, aur 11 martaba Surah Kausar. Allah Pak iska sawab tumhare naam-e-amaal mein shamil farmaye. Ameen."
   }
